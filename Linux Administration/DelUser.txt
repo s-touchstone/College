@@ -1,0 +1,10 @@
+Steven Touchstone
+Professor Mary Tarver
+East Central University
+10/15/2018
+
+userdel -r olduser
+
+or
+
+deluser --remove-home --remove-all-files olduser 

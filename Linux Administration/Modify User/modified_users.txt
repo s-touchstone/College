@@ -1,0 +1,10 @@
+usermod -c 'Woodell, Grant Jackson+225005' -l grawoo -m /home/STUDENTS/majors/grawoo 
+usermod -c 'Odom, Amber Rochelle+243834' -l ambrodo -m /home/STUDENTS/majors/ambrodo 
+usermod -c Katwal, Tanya+221258 -l tankat -m /home/STUDENTS/nonmajors/tankat 
+usermod -c 'Bhandari, Anjani+246130' -l anjbha1 -m /home/STUDENTS/majors/anjbha1 
+usermod -c 'Shrestha, Sachina+245369' -l sacshr1 -m /home/STUDENTS/majors/sacshr1 
+usermod -c 'Melendez, Maria Jose+245950' -l marjmel -m /home/STUDENTS/majors/marjmel 
+usermod -c 'Obu, Stanford Tetteh+232392' -l statobu -m /home/STUDENTS/majors/statobu 
+usermod -c 'Crawford, Coleman Christian+218984' -l colccra -m /home/STUDENTS/majors/colccra 
+usermod -c 'zacncop+123456' -l zacncop -m /home/STUDENTS/majors/zacncop 
+usermod -c Temporary Student+987654 -l tempstu -m /home/STUDENTS/nonmajors/tempstu 

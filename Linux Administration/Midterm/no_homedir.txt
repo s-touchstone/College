@@ -1,0 +1,39 @@
+lp:x:7:7:lp:/var/spool/lpd:/bin/sh
+news:x:9:9:news:/var/spool/news:/bin/sh
+uucp:x:10:10:uucp:/var/spool/uucp:/bin/sh
+list:x:38:38:Mailing List Manager:/var/list:/bin/sh
+irc:x:39:39:ircd:/var/run/ircd:/bin/sh
+gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/bin/sh
+nobody:x:65534:65534:nobody:/nonexistent:/bin/sh
+syslog:x:101:102::/home/syslog:/bin/false
+klog:x:102:103::/home/klog:/bin/false
+hplip:x:103:7:HPLIP system user,,,:/var/run/hplip:/bin/false
+avahi-autoipd:x:104:110:Avahi autoip daemon,,,:/var/lib/avahi-autoipd:/bin/false
+saned:x:106:113::/home/saned:/bin/false
+polkituser:x:109:118:PolicyKit,,,:/var/run/PolicyKit:/bin/false
+haldaemon:x:111:120:Hardware abstraction layer,,,:/var/run/hald:/bin/false
+Debian-exim:x:113:123::/var/spool/exim4:/bin/false
+bind:x:115:126::/var/cache/bind:/bin/false
+named:x:1001:1001:BIND :/home/named:/bin/false
+ftp:x:119:65534::/home/DATA/FTP:/bin/false
+zope:x:121:130::/var/lib/zope:/bin/false
+netmrg:x:123:33:netmrg,,,:/var/lib/netmrg:/bin/bash
+smokeping:x:124:131:SmokePing daemon,,,:/var/lib/smokeping:/bin/false
+clamav:x:125:132::/var/lib/clamav:/bin/false
+ntp:x:126:133::/home/ntp:/bin/false
+bacula:x:127:136:Bacula:/var/lib/bacula:/bin/false
+docvert:x:128:137:Docvert Converter,,,:/var/lib/docvert/home:/bin/false
+munin:x:107:116::/var/lib/munin:/bin/false
+webcam:x:5396:5396::/home/DATA/VirtualHosts/cs/WebCam:/bin/sh
+stunnel4:x:131:139::/var/run/stunnel4:/bin/false
+dkim-filter:x:133:141::/var/run/dkim-filter:/bin/false
+usbmux:x:135:46:usbmux daemon,,,:/home/usbmux:/bin/false
+kdm:x:137:65534::/home/kdm:/bin/false
+motion:x:122:1006::/home/motion:/bin/false
+dovenull:x:139:65534:Dovecot login user,,,:/nonexistent:/bin/false
+pulse:x:143:152:PulseAudio daemon,,,:/var/run/pulse:/bin/false
+gitlog:x:145:65534::/nonexistent:/bin/false
+gitdaemon:x:146:65534::/nonexistent:/bin/false
+git:x:7948:7949:Git Repository:/home/DATA/VirtualHosts/git:/usr/bin/git-shell
+guipig:x:8351:8352:Pig Guinea:/home/STUDENTS/nonmajors/guipig:/bin/bash
+ryacjoh:x:9071:9072:Johnson, Ryan Christopher+211531:/home/STUDENTS/majors/ryacjoh:/bin/bash

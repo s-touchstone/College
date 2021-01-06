@@ -1,0 +1,34 @@
+CMPSC 1113  01|brarapa|Apala, Brandon Robert|214784|0352|    
+CMPSC 1113  01|brilbig|Bigelow, Brian Lee|208472|0075|0352|
+CMPSC 1113  01|katdgra|Gragg, Kathryn Daun|218968|0510|    
+CMPSC 1113  02|bidsub|Subedi, Bidhan|222955|0510|    
+CMPSC 1113  03|asighi|Ghimire, Asish|222623|0510|0352|
+CMPSC 1113  03|lukshr|Shrestha, Lukash|223195|0510|    
+CMPSC 1513  04|kenjmor1|Morris, Kenneth Jackie,, Sr.|228132|0580|    
+CMPSC 1513  04|tylden|Denton, Tyler J|225231|0046|    
+CMPSC 1513  03|koumgra|Grantz, Kourtney Madison|218726|0215|    
+CMPSC 1133  01|roblcle|Clemmer, Robert Lee|223191|0510|    
+CMPSC 1133  01|jimdmar1|Marsh, Jimmy Dustin|214804|0480|    
+CMPSC 1133  01|bilwand|Andrew, Billy W|222346|0352|    
+CMPSC 1133  01|davlpal1|Palmer, David L.C.|218041|0510|    
+CMPSC 3113  01|taslmck|Mckaughan, Tasha Lynn|218855|0510|    
+CMPSC 3113  01|jonmsut1|Sutherland, Jonathan Mark|210255|0510|    
+CMPSC 3113  01|lemesar|Lemons, Sarah Elizabeth|212204|0510|    
+CMPSC 3613  01|dipshr|Shrestha, Dipesh|218381|0510|    
+CMPSC 3613  01|kisadh|Adhikari, Kishor|217284|0510|    
+CMPSC 3613  01|hanebar|Barnes, Hannah Elizabeth|213549|0510|    
+CMPSC 3943  01|natdpoo|Poole, Nathan Dean|211076|0510|    
+CMPSC 3943  01|densub|Subedi, Denish|217498|0510|    
+CMPSC 3943  01|bibbhu|Bhurtel, Bibek|214229|0510|    
+CMPSC 3613  01|fenpie|Pierre, Fendy|214696|0510|    
+CMPSC 3613  01|haohua|Huang, Hao|204839|0510|    
+CMPSC 3613  01|whinsto|Stotler, Whitney Nicole|219379|0510|    
+CMPSC 4223  01|bsdur|Dura, Bs|217552|0510|    
+CMPSC 4223  01|amikhon|Honeycutt, Amie Kathryn|193169|0510|    
+CMPSC 4223  01|johcemb|Embry, John C.|206668|0510|    
+CPSMA 2923  01|chawtil|Tillar, Chase Wayne|207031|0350|    
+CPSMA 2923  01|micjoli|Oliver, Michael Joeseph|217680|0510|    
+CPSMA 2923  01|casamed|Medford, Casey Alan|219813|0510|0350|
+CPSMA 2923  01|codlwil3|Williams, Cody Lane|209151|0510|    
+CPSMA 2315  01|andmpet|Peters, Andrew Michael|221916|0340|    
+CPSMA 1513  01|mirebla|Black, Miracle Elexia_Anne|227613|0410|    

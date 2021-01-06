@@ -1,0 +1,14 @@
+Steven Touchstone
+Professor Mary Tarver
+East Central University
+10/08/2018
+
+alias cancel_print='cancel `lpstat -o |grep stetou|cut -d" " -f1`'
+
+alias update='sudo apt-get update & sudo apt-get upgrade'
+
+This alias would be useful for multiple scenarios. I have been in 
+one situation before where I had to keep running these two commands
+repeatedly because of repository issues. I would make an adjustment
+and then try to run the updates again. This could be used to repeat
+those actions without having to type in the longer versions repeatedly.

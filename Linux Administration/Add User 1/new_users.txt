@@ -1,0 +1,10 @@
+grawoo:x:9862:9863:Woodell, Grant Jackson+225005:/home/STUDENTS/nonmajors/grawoo:/bin/bash
+ambrodo:x:9863:9864:Odom, Amber Rochelle+243834:/home/STUDENTS/majors/ambrodo:/bin/bash
+tankat:x:9864:9865:Katwal, Tanya+221258:/home/STUDENTS/majors/tankat:/bin/bash
+anjbha1:x:9865:9866:Bhandari, Anjani+246130:/home/STUDENTS/majors/anjbha1:/bin/bash
+sacshr1:x:9866:9867:Shrestha, Sachina+245369:/home/STUDENTS/majors/sacshr1:/bin/bash
+marjmel:x:9867:9868:Melendez, Maria Jose+245950:/home/STUDENTS/nonmajors/marjmel:/bin/bash
+statobu:x:9868:9869:Obu, Stanford Tetteh+232392:/home/STUDENTS/majors/statobu:/bin/bash
+colccra:x:9869:9870:Crawford, Coleman Christian+218984:/home/STUDENTS/nonmajors/colccra:/bin/bash
+zacncop:x:9870:9871:zacncop:/home/STUDENTS/nonmajors/zacncop:/bin/bash
+tempstu:x:9871:9872:Temporary Student:/home/STUDENTS/nonmajors/tempstu:/bin/bash
