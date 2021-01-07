@@ -1,0 +1,71 @@
+﻿<%@ Master Language="VB" CodeFile="MasterPage.master.vb" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <style type="text/css">
+        .header {
+            background-color:goldenrod;
+            text-align:center;           
+            height: 170px;
+            width: auto;
+            font-size:70px;
+        }
+        .content {
+            font-family:'Engravers MT';
+            font-size:14px;
+            text-align:center;
+        }
+        .link {
+            font-size:70px;
+            color:black;
+            text-decoration:none;
+            font-family:Broadway;
+        }
+        .footer {
+            background-color:goldenrod;
+            text-align:right;
+            height: 30px;
+            width: auto;
+            font-size:14px;
+            font-family:'Agency FB';
+        }
+        .pad {
+            background-color:goldenrod;
+            height:20px;
+            width:auto;
+        }
+        .menu {
+            
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <div class="pad"></div>
+        <div class="header">
+            <asp:Image id="pizzagirl" runat="server" ImageUrl="~/Images/Pizza1.jpg" Width="150px" Height="150px" ImageAlign="Left" />
+            <asp:Image id="pizzaguy" runat="server" ImageUrl="~/Images/Pizza2.jpg" Width="150px" Height="150px" ImageAlign="Right" />
+            <asp:LinkButton CssClass="link" ID="Head_lnk" runat="server" OnClick="Head_lnk_Click" >
+                Paul's Painfully Peculiar Pizzeria
+            </asp:LinkButton>
+        </div>
+        <div>
+            <asp:Menu ID="Navi_men" runat="server" DataSourceID="SiteMap" BackColor="Tomato" DynamicHoverStyle-BackColor="Violet" DynamicMenuItemStyle-BackColor="Wheat" ></asp:Menu>
+            <asp:SiteMapDataSource ID="SiteMap" runat="server" />
+        </div>
+        <asp:ContentPlaceHolder id="Content" runat="server">
+        </asp:ContentPlaceHolder>
+        <div class="footer">
+            <asp:Label ID="Fotr_lbl" runat="server">
+                Copyright 2013 - Paul's International Pizza, Inc. by UltraGeek Software Development, Inc.
+            </asp:Label>
+        </div>
+        
+    </div>
+    </form>
+</body>
+</html>
