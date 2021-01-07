@@ -1,0 +1,44 @@
+div {
+	float: left;
+	width: 33%;
+	height: 33%;
+	background-color: #808080;
+	text-align: center;
+}
+iframe {
+	height: 100%;
+	width: 100%;
+	display: block;
+}
+.red:hover {
+	background-color: #FF0000;
+	transition: 1s ease;
+}
+.orange:hover {
+	background-color: #FF8000;
+	transition: 1s ease;
+}
+.yellow:hover {
+	background-color: #FFFF00;
+	transition: 1s ease;
+}
+.green:hover {
+	background-color: #00FF00;
+	transition: 1s ease;
+}
+.blue:hover {
+	background-color: #0000FF;
+	transition: 1s ease;
+}
+.purple:hover {
+	background-color: #8000FF;
+	transition: 1s ease;
+}
+.pink:hover {
+	background-color: #FF0080;
+	transition: 1s ease;
+}
+.black:hover {
+	background-color: #000000;
+	transition: 1s ease;
+}
